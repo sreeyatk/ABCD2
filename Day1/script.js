@@ -56,3 +56,4 @@ async function getRandomImage() {
   const url = response.url;
   return url;
 }
+ 
