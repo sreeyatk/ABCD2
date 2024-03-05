@@ -1,4 +1,4 @@
-fetch('https://raw.githubusercontent.com/Hackerabad/ABCD2/main/Day1/data.json')
+fetch('data.json')
   .then(response => response.json())
   .then(data => {
     const commentCardsRow = document.getElementById('commentCardsRow');
