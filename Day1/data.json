@@ -1,52 +1,12 @@
 [
   {
-    "name": "John Doe",
-    "email": "john@example.com",
-    "comment": "This is a great website!"
-  },
-  {
-    "name": "Jane Smith",
-    "email": "jane@example.com",
-    "comment": "I love the design of this website."
-  },
-  {
-    "name": "Michael Johnson",
-    "email": "michael@example.com",
-    "comment": "Fantastic work on this website!"
-  },
-  {
-    "name": "Emily Brown",
-    "email": "emily@example.com",
-    "comment": "The content here is really informative."
-  },
-  {
-    "name": "Chris Wilson",
-    "email": "chris@example.com",
-    "comment": "I appreciate the effort put into making this website accessible."
-  },
-  {
-    "name": "Jessica Davis",
-    "email": "jessica@example.com",
-    "comment": "The user interface is so intuitive."
-  },
-  {
-    "name": "Andrew Thompson",
-    "email": "andrew@example.com",
-    "comment": "I've learned a lot from the articles on this website."
-  },
-  {
-    "name": "Sophia Lee",
-    "email": "sophia@example.com",
-    "comment": "I find the design of this website very inspiring."
-  },
-  {
-    "name": "William Martinez",
-    "email": "william@example.com",
-    "comment": "Keep up the good work!"
-  },
-  {
     "name": "Ashish Malla",
     "email": "meow@example.com",
     "comment": "I've meowed this website to all my friends."
+  },
+  {
+    "name": "Meow Reddy",
+    "email": "meow@Reddy.in",
+    "comment": "I've meowed this website to all my cats."
   }
 ]
